@@ -54,6 +54,7 @@ random.tfstate.bar
 
 Игнорировать данные файлы в директории
 
+---
 ## Занияте 2. Git-branching
 
 1. Создали ветку *git-merge* и переключились, сделали коммиты в ней, запушили в репозиторий командой:
@@ -71,3 +72,13 @@ random.tfstate.bar
 3. Промежуточный итог выглядел вот так:
 
 ![all text](img/git-branching/4.png)
+
+4. Переключились на *main* командой ` git checkout main ` и выполнили merge веток ` git merge git-merge `
+
+5. Выполнили rebase, решая конфликты:
+
+![all text](img/git-branching/5.png)
+
+6. Отправили ветку в удаленный репозиторий
+
+![all text](img/git-branching/6.png)
