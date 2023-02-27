@@ -18,4 +18,6 @@
 
 ![all text](/doc/img/git-tools/4.png)
 
+5. Найдите коммит в котором была создана функция ` func providerSource `, ее определение в коде выглядит так ` func providerSource(...) ` (вместо троеточия перечислены аргументы).
 
+![all text](/doc/img/git-tools/5.png)
