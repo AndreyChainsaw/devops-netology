@@ -21,3 +21,11 @@
 5. Найдите коммит в котором была создана функция ` func providerSource `, ее определение в коде выглядит так ` func providerSource(...) ` (вместо троеточия перечислены аргументы).
 
 ![all text](/doc/img/git-tools/5.png)
+
+6. Найдите все коммиты в которых была изменена функция ` globalPluginDirs `.
+
+![all text](/doc/img/git-tools/6.png)
+
+7. Кто автор функции ` synchronizedWriters `?
+
+![all text](/doc/img/git-tools/7.png)
